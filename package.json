@@ -16,7 +16,7 @@
     "promise",
     "async"
   ],
-  "author": "MIT",
+  "author": "aixpec",
   "license": "MIT",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
